@@ -1,0 +1,6 @@
+C:\Users\George\source\repos\FirstDepth\FirstDepth\bin\Debug\FirstDepth.exe
+C:\Users\George\source\repos\FirstDepth\FirstDepth\bin\Debug\FirstDepth.pdb
+C:\Users\George\source\repos\FirstDepth\FirstDepth\obj\Debug\FirstDepth.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\FirstDepth\FirstDepth\obj\Debug\FirstDepth.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\FirstDepth\FirstDepth\obj\Debug\FirstDepth.exe
+C:\Users\George\source\repos\FirstDepth\FirstDepth\obj\Debug\FirstDepth.pdb
